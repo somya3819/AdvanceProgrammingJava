@@ -16,6 +16,12 @@
         <module>Collections/TreeSet</module>
         <module>Collections/HashMap</module>
         <module>TreeMap</module>
+        <module>Collections/Stacks</module>
+        <module>Collections/Queue</module>
+        <module>Collections/IteratorDemo</module>
+        <module>Collections/HigherOrderFunc</module>
+        <module>Java_Essentials</module>
+        <module>Java_Essentials/Lambda</module>
     </modules>
 
     <properties>
